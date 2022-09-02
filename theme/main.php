@@ -33,6 +33,7 @@
     <!-- CSS
 		================================================== -->
     <!-- Fontawesome Icon font -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <link rel="stylesheet" href="plugins/themefisher-font/style.css">
     <!-- bootstrap.min css -->
     <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
@@ -176,7 +177,7 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="250ms">
                     <div class="block">
                         <div class="icon-box">
-                            <i class="tf-strategy"></i>
+                            <i class="fa-brands fa-aws"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
@@ -190,7 +191,7 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
                     <div class="block kill-margin-bottom">
                         <div class="icon-box">
-                            <i class="tf-anchor2"></i>
+                            <i class="fa-brands fa-aws"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
@@ -204,7 +205,7 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
                     <div class="block kill-margin-bottom">
                         <div class="icon-box">
-                            <i class="tf-anchor2"></i>
+                            <i class="fa-solid fa-database"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
@@ -218,7 +219,7 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
                     <div class="block kill-margin-bottom">
                         <div class="icon-box">
-                            <i class="tf-anchor2"></i>
+                            <i class="fa-brands fa-aws"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
@@ -232,7 +233,7 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
                     <div class="block kill-margin-bottom">
                         <div class="icon-box">
-                            <i class="tf-anchor2"></i>
+                            <i class="fa-solid fa-server"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
@@ -246,11 +247,39 @@ End Sticky Navigation
                 <div class="col-md-4 text-center wow fadeInUp mt-4" data-wow-duration="500ms" data-wow-delay="500ms">
                     <div class="block kill-margin-bottom">
                         <div class="icon-box">
-                            <i class="tf-anchor2"></i>
+                            <i class="fa-brands fa-aws"></i>
                         </div>
                         <!-- Express About Yourself -->
                         <div class="content text-center">
                             <h3>Certificate Manager</h3>
+                        </div>
+                    </div>
+                </div>
+                <!-- End About item -->
+
+                <!-- About item -->
+                <div class="col-md-4 text-center wow fadeInUp mt-4" data-wow-duration="500ms" data-wow-delay="500ms">
+                    <div class="block kill-margin-bottom">
+                        <div class="icon-box">
+                            <i class="fa-brands fa-line"></i>
+                        </div>
+                        <!-- Express About Yourself -->
+                        <div class="content text-center">
+                            <h3>LINE Developers</h3>
+                        </div>
+                    </div>
+                </div>
+                <!-- End About item -->
+
+                <!-- About item -->
+                <div class="col-md-4 text-center wow fadeInUp mt-4" data-wow-duration="500ms" data-wow-delay="500ms">
+                    <div class="block kill-margin-bottom">
+                        <div class="icon-box">
+                            <i class="fa-brands fa-line"></i>
+                        </div>
+                        <!-- Express About Yourself -->
+                        <div class="content text-center">
+                            <h3>Line Official</h3>
                         </div>
                     </div>
                 </div>
