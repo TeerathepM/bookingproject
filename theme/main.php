@@ -285,6 +285,20 @@ End Sticky Navigation
                 </div>
                 <!-- End About item -->
 
+                <!-- About item -->
+                <div class="col-md-4 text-center wow fadeInUp mt-4" data-wow-duration="500ms" data-wow-delay="500ms">
+                    <div class="block kill-margin-bottom">
+                        <div class="icon-box">
+                            <i class="fa-brands fa-aws"></i>
+                        </div>
+                        <!-- Express About Yourself -->
+                        <div class="content text-center">
+                            <h3>Lightsail</h3>
+                        </div>
+                    </div>
+                </div>
+                <!-- End About item -->
+
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section> <!-- End section -->
